@@ -9,7 +9,7 @@
  */
 function doMathClicked() {
   document.getElementById("add-math").innerHTML =
-    "<p>The perimeter is: " + (5 + 5 + 3 + 3) + " cm</p>";
+    "<p>The perimeter is: " + (5 + 5 + 3 + 3) + " cm</p>"
   document.getElementById("multiply-math").innerHTML =
-    "<p>The area is: " + (5 * 3) + " cm&sup2;</p>";
+    "<p>The area is: " + 5 * 3 + " cm&sup2;</p>"
 }
